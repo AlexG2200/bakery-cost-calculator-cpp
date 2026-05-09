@@ -20,6 +20,7 @@ data/recipes.dat
 data/products.dat
 ```
 ## Sample output
+```
 Enter the recipe file name: data/recipes.dat
 File Open Successfully.
 Enter the product file name: data/products.dat
